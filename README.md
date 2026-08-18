@@ -1,9 +1,9 @@
-# 끄투코리아 Discord RPC
+# 끄투코리아 web extension
 
 [![Version](https://img.shields.io/badge/version-0.2.0-blue.svg)](https://github.com/yourusername/kkutu-discord-rpc/releases)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green.svg)](LICENSE)
 
-끄투코리아에서 게임을 플레이할 때 Discord 상태에 실시간으로 게임 정보를 표시해주는 앱입니다.
+끄투코리아에서 게임을 플레이할 때 유용한 기능을 추가해주는 브라우저 익스텐션입니다.
 
 ## ✨ 소개
 
@@ -12,8 +12,9 @@
 
 ## 🚀 주요 기능
 
-- **실시간 상태 업데이트**: 현재 플레이 중인 게임 모드 표시
+- **discord rpc**: discord rpc를 이용한 현재 플레이 중인 게임 모드 실시간 표시
 - **단어 자동 수집**: 게임중 단어를 자동으로 수집해 좋은 단어를 놓치지 않게 됩니다.
+- **옷장**: 장착할 아이템을 옷장으로 저장후 빠르게 교체하세요.
 
 ### Discord에 표시되는 정보
 - 현재 접속중인 서버, 방번호
@@ -32,10 +33,10 @@
 ### Linux
 추후 지원 예정
 
-## 🎯 사용법
+## 🎯 with discord 사용법
 
 1. **Discord 실행**: 먼저 Discord가 실행되어 있어야 합니다
-2. **앱 실행**: 설치한 끄투코리아 Discord RPC 앱을 실행합니다
+2. **앱 실행**: 설치한 끄투코리아 Discord RPC 앱을 실행합니다.
 3. **끄투코리아 접속**: [끄투코리아](https://kkutu.co.kr) 웹사이트에 접속합니다
 4. **게임 시작**: 원하는 게임 방에 입장하여 게임을 시작합니다
 5. **상태 확인**: Discord 프로필에서 게임 상태가 자동으로 업데이트되는 것을 확인합니다.
@@ -52,7 +53,7 @@
 
 - **운영체제**: Windows 10+ / macOS 현재 미지원 / Ubuntu 현재 미지원
 - **Discord**: Discord 데스크톱 앱 설치 필요
-- **브라우저**: Chrome, Edge 브라우저, 현재 Firefox, Safari은 미지원입ㄴ다.
+- **브라우저**: Chrome, Edge 브라우저, 현재 Firefox, Safari은 미지원입니다.
 - **네트워크**: 인터넷 연결 필요
 
 ## 🔧 문제 해결
